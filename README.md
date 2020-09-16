@@ -1,2 +1,0 @@
-# Implementasi-Algoritma
- IMA only
